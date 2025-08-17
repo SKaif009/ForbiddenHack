@@ -8,9 +8,24 @@ ForbiddenHack is a comprehensive Python tool designed for security researchers a
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey.svg)
 
+
+<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
+
+
+
+https://github.com/user-attachments/assets/bb8c1ac5-d4c8-461b-bf38-d6fab67af825
+
+
+
+
+
+https://github.com/user-attachments/assets/e88631d1-6e05-4093-b72c-e81737975967
+
+
+
 ## Features
 
-### 🎯 Multi-Vector Bypass Testing
+### Multi-Vector Bypass Testing
 - **Header-based Bypass**: Tests various HTTP headers that may bypass access controls
 - **HTTP Method Testing**: Attempts different HTTP methods (GET, POST, PUT, DELETE, etc.)
 - **Path Obfuscation**: Advanced URL manipulation techniques including:
@@ -20,11 +35,11 @@ ForbiddenHack is a comprehensive Python tool designed for security researchers a
   - File extension manipulation
   - Special character injection
 
-### 🕰️ Historical Analysis
+### Historical Analysis
 - **Wayback Machine Integration**: Discovers historical snapshots of restricted resources
 - **Timeline Analysis**: Shows when protected resources were previously accessible
 
-### 🎨 User Experience
+### User Experience
 - **Colorized Output**: Easy-to-read results with color-coded status responses
 - **Multiple Banner Designs**: Randomized ASCII art banners
 - **Detailed Reporting**: Comprehensive results with response lengths and headers
@@ -132,6 +147,7 @@ ForbiddenHack/
 │   ├── path.py            # Path obfuscation techniques
 │   └── wayback_check.py   # Wayback Machine integration
 ├── README.md              # Documentation
+├── LICENSE                # License
 └── requirements.txt       # Python dependencies
 ```
 
@@ -174,14 +190,6 @@ black main.py assets/
 - Wayback Machine integration
 - Colorized output and multiple banner designs
 
-## Roadmap
-
-- [ ] Proxy support (HTTP/HTTPS/SOCKS)
-- [ ] Threading for faster execution
-- [ ] Custom wordlist support
-- [ ] JSON/XML output formats
-- [ ] Integration with Burp Suite
-- [ ] Docker container support
 
 ## Credits
 
