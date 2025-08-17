@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/e88631d1-6e05-4093-b72c-e81737975967
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/BlackForgeX/ForbiddenHack.git
+git clone https://github.com/SKaif009/ForbiddenHack.git
 cd ForbiddenHack
 
 # Install dependencies
