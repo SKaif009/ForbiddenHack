@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="500" height="500" alt="LOGO_1_-removebg-preview(2)" src="https://github.com/user-attachments/assets/73df04a7-7e52-4764-a8d5-536d243c7136" />
+<img width="500" height="500" alt="LOGO" src="https://github.com/user-attachments/assets/73df04a7-7e52-4764-a8d5-536d243c7136" />
 
 <br>
 
