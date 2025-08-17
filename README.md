@@ -1,4 +1,4 @@
-# ForbiddenHack v1.0.0 🚀
+# ForbiddenHack v1.0.0 
 
 **Advanced 403 Bypass & Reconnaissance Tool**
 
