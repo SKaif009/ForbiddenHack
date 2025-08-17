@@ -1,12 +1,13 @@
 
-<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
+<div align="center">
+<img width="500" height="500" alt="LOGO_1_-removebg-preview(2)" src="https://github.com/user-attachments/assets/73df04a7-7e52-4764-a8d5-536d243c7136" />
 
-
+<br>
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey.svg)
-
+</div
 # ForbiddenHack v1.0.0 
 
 **Advanced 403 Bypass & Reconnaissance Tool**
@@ -15,6 +16,7 @@ ForbiddenHack is a comprehensive Python tool designed for security researchers a
 
 
 
+<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
 
 
 
