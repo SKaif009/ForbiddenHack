@@ -1,15 +1,18 @@
+
+<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
+
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey.svg)
+
 # ForbiddenHack v1.0.0 
 
 **Advanced 403 Bypass & Reconnaissance Tool**
 
 ForbiddenHack is a comprehensive Python tool designed for security researchers and penetration testers to test and bypass HTTP 403 Forbidden responses using multiple attack vectors including header manipulation, HTTP method testing, path obfuscation, and historical snapshot analysis.
 
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey.svg)
 
 
-<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
 
 
 
