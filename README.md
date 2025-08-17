@@ -16,8 +16,9 @@ ForbiddenHack is a comprehensive Python tool designed for security researchers a
 <br>
 <img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd58d402-6bdf-4ba2-a217-7a990854f1fa" />
 
-
 <br>
+
+
 https://github.com/user-attachments/assets/bb8c1ac5-d4c8-461b-bf38-d6fab67af825
 
 
