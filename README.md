@@ -7,6 +7,9 @@
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey.svg)
+![GitHub stars](https://img.shields.io/github/stars/SKaif009/ForbiddenHack?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SKaif009/ForbiddenHack?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SKaif009/ForbiddenHack)
 </div
 # ForbiddenHack v1.0.0 
 
