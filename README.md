@@ -15,7 +15,7 @@
 
 **Advanced 403 Bypass & Reconnaissance Tool**
 
-ForbiddenHack is a comprehensive Python tool designed for security researchers and penetration testers to test and bypass HTTP 403 Forbidden responses using multiple attack vectors including header manipulation, HTTP method testing, path obfuscation, and historical snapshot analysis.
+ForbiddenHackv1.0.0 is a comprehensive Python tool designed for security researchers and penetration testers to test and bypass HTTP 403 Forbidden responses using multiple attack vectors including header manipulation, HTTP method testing, path obfuscation, and historical snapshot analysis.
 <br>
 
 
