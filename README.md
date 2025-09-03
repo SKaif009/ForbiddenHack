@@ -190,9 +190,16 @@ ForbiddenHack/
 ### Inspiration
 This tool combines various bypass techniques documented by security researchers and consolidates them into a single, easy-to-use testing framework.
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SKaif009/ForbiddenHack/blob/main/LICENSE) file for details.
+This project is **proprietary**.
+
+* No license is granted to use, copy, modify, or distribute the source code.
+* Only the provided binaries in the `bin/` folder may be used **for personal and educational purposes**.
+* The source code (`main.py`) is **not disclosed** and will not be released.
+* All rights reserved © 2025 [Kaif S](https://github.com/SKaif009).
+
+For feature requests or suggestions, feel free to open an issue.
 
 ## Support
 
